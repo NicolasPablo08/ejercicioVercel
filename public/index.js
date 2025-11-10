@@ -1,1 +1,1 @@
-console.log("soy el index js de la carpeta public");
+console.log("soy el index js de la carpeta public (modigicado)");
