@@ -1,0 +1,18 @@
+{
+	"name": "ejercicioVercel",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "git@github.com:NicolasPablo08/ejercicioVercel.git",
+	"author": "Pablo Bru <pablobru08@gmail.com>",
+	"license": "MIT",
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next"
+	},
+	"dependencies": {
+		"next": "^16.0.1",
+		"react": "^19.2.0",
+		"react-dom": "^19.2.0"
+	}
+}
